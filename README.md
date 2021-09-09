@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @marcoredz
-- 🌱 I’m currently learning Python
+- 🌱 Currently learning: 
+  - <img src="https://flutter.dev/assets/images/dash/Dash.png" width="50" height="50" /> Flutter 
+  - 🐍 Python 
+
 
 <!---
 marcoredz/marcoredz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
