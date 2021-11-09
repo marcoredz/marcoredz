@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcoredz
-- 🌱 Currently learning: 
+- Discovering: 
   - <img src="https://flutter.dev/assets/images/dash/Dash.png" width="50" height="50" /> Flutter 
   - 🐍 Python 
 
