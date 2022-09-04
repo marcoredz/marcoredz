@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marcoredz
 - Discovering: 
-  - Flutter 
-  - 🐍 Python 
+  - Flutter
 
 
 <!---
